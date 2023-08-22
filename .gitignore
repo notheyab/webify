@@ -15,5 +15,5 @@ yarn-error.log*
 
 .vscode/
 
-prettier.config.js
-
+.editorconfig
+.eslintrc
