@@ -172,10 +172,7 @@ const Nav = () => (
       </MenuItem>
     </Menu>
     <Github>
-      <a
-        href="https://github.com/notheyab/webify"
-        target="_blank"
-        rel="noopener noreferrer">
+      <a href="https://github.com/notheyab/webify" target="_blank" rel="noopener noreferrer">
         <IconGithub />
       </a>
     </Github>

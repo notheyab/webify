@@ -5,12 +5,12 @@
   "main": "server/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/spotify-profile.git"
+    "url": "https://github.com/notheyab/webify.git"
   },
   "keywords": [],
   "author": "Abel Tekle <heyabeltekle05@gmail.com>",
   "license": "ISC",
-  "homepage": "https://github.com/bchiang7/spotify-profile#readme",
+  "homepage": "https://github.com/notheyab/webify#readme",
   "engines": {
     "node": "10.13.0"
   },
