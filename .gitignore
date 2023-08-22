@@ -1,4 +1,5 @@
 node_modules
+.nvmrc
 
 .DS_Store
 
@@ -13,4 +14,6 @@ yarn-debug.log*
 yarn-error.log*
 
 .vscode/
+
+prettier.config.js
 

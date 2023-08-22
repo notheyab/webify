@@ -2,12 +2,11 @@
 
 > A web app for visualizing personalized Spotify data
 
-Built with a bunch of things, but to name a few:
+Built with:
 
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 - [Create React App](https://github.com/facebook/create-react-app)
 - [Express](https://expressjs.com/)
-- [Reach Router](https://reach.tech/router)
 - [Styled Components](https://www.styled-components.com/)
 
 ## Setup
@@ -43,4 +42,3 @@ Built with a bunch of things, but to name a few:
 
 4. Add `http://app-name.herokuapp.com/callback` as a Redirect URI in the spotify application settings
 
-5. Once the app is live on Heroku, hitting http://app-name.herokuapp.com/login should be the same as hitting http://localhost:8888/login
